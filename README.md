@@ -1,6 +1,6 @@
-# MeanCourse
+# Mean Stack Course on Udemy
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
+This was my attempt of learning MEAN stack development. This was part of a Udemy course (The MEAN Stack Guide by Maximillian Schwardzmüller).
 
 ## Development server
 
